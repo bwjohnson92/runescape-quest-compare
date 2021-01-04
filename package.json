@@ -1,0 +1,23 @@
+{
+  "name": "runescape-quest-compare",
+  "version": "1.0.0",
+  "description": "Simple Runescape quest comparison script",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js User1 User2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwjohnson92/runescape-quest-compare.git"
+  },
+  "author": "Ben Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwjohnson92/runescape-quest-compare/issues"
+  },
+  "homepage": "https://github.com/bwjohnson92/runescape-quest-compare#readme"
+}
